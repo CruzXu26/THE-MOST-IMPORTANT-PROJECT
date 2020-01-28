@@ -1,105 +1,106 @@
-
 body {
-  background-color:#dbe2ef;
+  background-color: #dbe2ef;
   font-family: sans-serif;
-  margin:0;
+  margin: 0;
 }
 
-
-h1{
-  margin:0;
+h1 {
+  margin: 0;
 }
 
-div{
-
-  margin:0;
-  padding:20px;
-
+div {
+  margin: 0;
+  padding: 20px;
 }
 
-td{
-  width:50%;
+td {
+  width: 50%;
   vertical-align: top;
 }
-.top-container{
+
+.top-container {
   background-color: #3f72af;
   color: white;
-  margin:0;
-  padding:20px;
-  width:100%;
+  margin: 0;
+  padding: 20px;
+  width: 100%;
   text-align: center;
-
-
 }
 
-.doggy{
-  text-align: center;
-  position:relative;
-  right:20px;
-}
-
-.friends{
+.doggy {
   text-align: center;
   position: relative;
-  left:20px;
+  right: 20px;
 }
 
-.second-container{
+.friends {
+  text-align: center;
+  position: relative;
+  left: 20px;
+}
+
+.second-container {
   width: 90%;
   padding: 20px;
   margin-left: 30px;
   line-height: 30px;
 }
 
-.third-container{
-margin-left: 30px;
-width:90%;
-line-height: 30px;
+.third-container {
+  margin-left: 30px;
+  width: 90%;
+  line-height: 30px;
 }
 
-
-.bottom-container{
+.bottom-container {
   width: 100%;
   text-align: center;
   margin-top: 30px;
 }
-p{
-  margin:0;
+
+p {
+  margin: 0;
 }
 
 hr {
   text-align: center;
-  border-style:none;
-  border-top-style:dotted;
-  border-color:grey;
-  border-width:5px;
-  width:5%;
-  margin:0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #3f72af;
+  border-width: 5px;
+  width: 5%;
+  margin: auto;
+  display: block;
 }
 
-.firstvideo:link{
-  color:white;
-}
-.firstvideo:visited{
-  color:white;
-}
-.firstvideo:hover{
-  color:white;
-}
-.firstvideo:active{
-  color:white;
+.firstvideo:link {
+  color: white;
 }
 
+.firstvideo:visited {
+  color: white;
+}
 
-.secondvideo:link{
-  color:white;
+.firstvideo:hover {
+  color: white;
 }
-.secondvideo:visited{
-  color:white;
+
+.firstvideo:active {
+  color: white;
 }
-.secondvideo:hover{
-  color:white;
+
+.secondvideo:link {
+  color: white;
 }
-.secondvideo:active{
-  color:white;
+
+.secondvideo:visited {
+  color: white;
+}
+
+.secondvideo:hover {
+  color: white;
+}
+
+.secondvideo:active {
+  color: white;
 }
