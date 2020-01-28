@@ -77,19 +77,29 @@ hr {
   margin:0;
 }
 
-a:link{
+.firstvideo:link{
   color:white;
 }
-a:visited{
+.firstvideo:visited{
   color:white;
 }
-a:hover{
+.firstvideo:hover{
   color:white;
 }
-a:active{
+.firstvideo:active{
   color:white;
 }
 
-.video{
-  color:black;
+
+.secondvideo:link{
+  color:white;
+}
+.secondvideo:visited{
+  color:white;
+}
+.secondvideo:hover{
+  color:white;
+}
+.secondvideo:active{
+  color:white;
 }
