@@ -14,10 +14,13 @@ div{
 
   margin:0;
   padding:20px;
-  display: inline-block;
-  width:45%;
+
 }
 
+td{
+  width:50%;
+  vertical-align: top;
+}
 .top-container{
   background-color: #3f72af;
   color: white;
@@ -54,10 +57,7 @@ width:90%;
 line-height: 30px;
 }
 
-.question2-container{
-  position: relative;
-  bottom:65px;
-}
+
 .bottom-container{
   width: 100%;
   text-align: center;
